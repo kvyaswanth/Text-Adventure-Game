@@ -1,0 +1,10 @@
+To play the game, you would use commands like:
+
+take map
+go east
+take key
+go south
+take healer
+go north
+go west
+launch rocket
